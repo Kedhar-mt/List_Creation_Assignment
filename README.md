@@ -38,7 +38,7 @@ A React-based application that allows users to create and manage lists. Users ca
 4. Move items between the lists using the arrows provided.
 5. Use the "Update" button to save the new list and the "Cancel" button to discard changes.
 
-# API-ENDPOINT 
+# API-Endpoint 
 
 LIST_CREATION_API_URL
 

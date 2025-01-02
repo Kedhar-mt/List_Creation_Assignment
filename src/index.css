@@ -1,0 +1,22 @@
+/* Add global styles here */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+h4 {
+  font-size: 1rem;
+  color: #444;
+}
+
+p {
+  font-size: 0.9rem;
+  color: #666;
+}
